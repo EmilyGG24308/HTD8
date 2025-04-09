@@ -1,0 +1,95 @@
+﻿Jones Johnson, intoxicación alimentaria, B  
+Pedro Gómez, infarto agudo, A  
+Ana Torres, fiebre alta, D  
+Luis Martínez, herida de bala, A  
+Carla Sánchez, envenenamiento por alcohol, B  
+Michael Brown, traumatismo craneal, A  
+Camila Vega, dolores de parto, B  
+Kevin Miller, esguince de tobillo, D  
+Natalia Herrera, migraña, E  
+John Anderson, infarto, A  
+José Herrera, dolor abdominal, C  
+Lucia Delgado, trabajo de parto avanzado, B  
+Jessica Smith, brazo roto, C  
+Luis Ortega, reacción alérgica, B  
+Megan Davis, gastroenteritis, D  
+Pablo Navarro, mordedura de serpiente, A  
+Patricia León, dengue, E  
+Ashley Moore, fiebre alta, D  
+Tomás Ayala, quemadura de segundo grado, B  
+Kimberly Wright, deshidratación, C  
+Lucas Fernández, mordedura de perro, C  
+Stephanie Clark, ataque de pánico, E  
+Bruno Castro, neumonía, B  
+Daniel Wilson, crisis diabética, A  
+Sofía Romero, síntomas gripales, D  
+Mark Lewis, fractura de costilla, C  
+Valeria Pineda, cálculos renales, B  
+Brian Hall, convulsión, A  
+Gabriela Mendoza, infección urinaria, D  
+Jason Young, quemaduras graves, A  
+Isabella Vargas, amigdalitis, D  
+Anthony Adams, hombro dislocado, C  
+Mariana Ríos, crisis hipertensiva, B  
+Charles Turner, fiebre con erupción, D  
+Daniela Guzmán, picadura de alacrán, B  
+Andrew Scott, dolor en el pecho, A  
+Lourdes Ayala, infección postoperatoria, B  
+Benjamin Baker, dedo fracturado, E  
+Karla Salinas, dolor estomacal, C  
+Emma Martinez, contracciones de parto, B  
+George Phillips, derrame cerebral, A  
+Alejandra Cruz, varicela, D  
+William Torres, costillas fracturadas, C  
+Allison Bennett, bronquitis, D  
+Mauricio Soto, accidente en motocicleta, A  
+Hannah Evans, infección de oído, E  
+Francisco Ramírez, accidente en moto, A  
+Olivia Parker, dificultad para respirar, A  
+Laura González, insolación, C  
+Diego Ruiz, caída con traumatismo leve, C  
+Melisa Barrios, gripe común, E  
+Rebeca Cortés, accidente de tránsito, A  
+Andrés Molina, bronquitis, D  
+Fabiola Suárez, luxación de hombro, C  
+Ignacio Paredes, deshidratación severa, B  
+Teresa Campos, crisis asmática, A  
+Bruno Cifuentes, mordedura de perro, C  
+Daniela Vargas, varicela, D  
+Nicolás Ríos, herida cortante profunda, B  
+Camila Mendoza, fiebre tifoidea, C  
+Javier Orozco, pancreatitis aguda, A  
+Sonia Peña, infección urinaria, D  
+Rodrigo Silva, esguince de tobillo, D  
+Valentina Aguilar, alergia alimentaria, B  
+Beatriz Godoy, hipertensión descompensada, B  
+Esteban Torres, amigdalitis, D  
+Paula Núñez, fractura de costilla, C  
+Felipe Bravo, convulsiones, A  
+Romina Rivas, picadura de abeja con reacción, B  
+Gabriel Pinto, dolor de espalda crónico, E  
+Mónica Reyes, anemia, D  
+Sebastián Acuña, lesión deportiva, C  
+Antonia Fuentes, cólico renal, B  
+Ricardo Salazar, traumatismo craneal, A  
+Fernanda Mena, fiebre por infección viral, D  
+Álvaro Medina, otitis, E  
+Isabel Cabrera, náuseas y vómitos, D  
+Claudio Rivas, accidente doméstico, C  
+Juliana Muñoz, hemorragia nasal severa, B  
+Matías Carrillo, paro cardiorrespiratorio, A  
+Sarah Thompson, ataque de asma severo, A  
+Javier Torres, fiebre por dengue, D  
+Andrea López, apendicitis, A  
+Tomás Fuentes, lesiones por accidente automovilístico, A  
+Emily Parker, dolor lumbar agudo, C  
+Benjamin Adams, fiebre persistente, D  
+Carlos Mitchell, sangrado nasal leve, E  
+Michelle Torres, diarrea crónica, D  
+James Romero, colapso por calor, B  
+Nina Castillo, urticaria alérgica, C  
+Jonathan Morales, fractura de nariz, C  
+Sophia Jiménez, ardor al orinar, D  
+Elena Green, ansiedad intensa, B  
+Logan Díaz, quemadura en la mano, C  
+Julia Carter, caída desde altura, A
