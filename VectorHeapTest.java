@@ -26,7 +26,7 @@ public class VectorHeapTest {
     //metodo toString (Paciente)
     @Test
     public void testPacienteToString() {
-        Paciente paciente = new Paciente("Juan", "Nariz Fracturadoa", 'B');
+        Paciente paciente = new Paciente("Juan", "Nariz Fracturado", 'B');
         String expected = "Juan, Nariz Fracturado, B";
         assertEquals(expected, paciente.toString(), "El método toString() debería devolver el formato correcto");
     }
